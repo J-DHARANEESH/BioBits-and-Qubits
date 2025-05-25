@@ -23,7 +23,7 @@ Sample columns:
 | 1      | Abiotrophia defectiva    | Bacteria | Oral      | 1950       |
 | 2      | Achromobacter piechaudii | Bacteria | Airways   | 5755       |
 
-📝 
+📝[Genome_Data.csv](https://github.com/J-DHARANEESH/Genomic-Clustering-Classical-vs-Quantum-Inspired-Machine-Learning-on-HMP-Data/blob/main/Genome_Data.csv)
 
 ---
 
