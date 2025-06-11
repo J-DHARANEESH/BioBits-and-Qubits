@@ -1,4 +1,4 @@
-# Genomic Clustering using Classical and Quantum-Inspired Methods 🧬
+# BioBits & Qubits: Genomic Clustering using Classical and Quantum-Inspired Methods 🧬
 
 This project applies classical and simulated quantum hybrid clustering methods on Human Microbiome Project (HMP) genomic data. The objective is to uncover meaningful biological patterns such as dominant body sites, gene count distributions, and organism groupings.
 
